@@ -1,7 +1,7 @@
 name: Snake Data
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # execute every monday at 7 am
     - cron: "0 7 * * MON"
   workflow_dispatch:
 
