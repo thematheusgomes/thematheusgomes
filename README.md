@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there! I'm Matheus Gomes
-<div align="center">
+
+<!-- <div align="center">
     <a href="https://github.com/thematheusgomes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thematheusgomes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thematheusgomes&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+</div> -->
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Matheus-Bash" height="30" width="40" src="https://github.com/thematheusgomes/thematheusgomes/blob/main/aws.svg">
     <img align="center" alt="Matheus-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
