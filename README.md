@@ -29,7 +29,6 @@ Here are some ideas to get you started:
     <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Matheus-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="Matheus-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
     <img align="center" alt="Matheus-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg">
 </div>
   
